@@ -6,13 +6,10 @@
 Graphs can be used in any application that needs to model relations between object.
 They can be used for representing maps in games, establish relations between players or users of a protocol.
 Another application of graphs is building Finite State Machines, useful for example for games like Axelrod where some strategies are represented with a FSM.
-<div>
-<div style="display:flex">
- <img src="https://user-images.githubusercontent.com/30298476/178510653-b133c590-777f-46f8-9af1-00b6b480ecee.png" width="250" height="200"/>
- <img src="https://user-images.githubusercontent.com/30298476/178511633-489a5748-0f50-49f1-a2f0-6cb5076bde52.jpeg" width="300" height="200"/>
- <img src="https://user-images.githubusercontent.com/30298476/178512519-2cd45b07-14ed-43ef-8e6e-184b6e59f624.png" width="300" height="200/>
-</div>
-</div>
+
+![](https://user-images.githubusercontent.com/30298476/178510653-b133c590-777f-46f8-9af1-00b6b480ecee.png)
+![](https://user-images.githubusercontent.com/30298476/178511633-489a5748-0f50-49f1-a2f0-6cb5076bde52.jpeg)
+![](https://user-images.githubusercontent.com/30298476/178512519-2cd45b07-14ed-43ef-8e6e-184b6e59f624.png)
 
 .
 ## Graphs representation
