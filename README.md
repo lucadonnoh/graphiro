@@ -12,7 +12,7 @@ Another application of graphs is building Finite State Machines, useful for exam
 <img src="https://user-images.githubusercontent.com/30298476/178511633-489a5748-0f50-49f1-a2f0-6cb5076bde52.jpeg" width="300" height="200"/>
 <img src="https://user-images.githubusercontent.com/30298476/178512519-2cd45b07-14ed-43ef-8e6e-184b6e59f624.png" width="400" height="200/>
 </div>
-
+ 
 ### Graphs representation
 There are three main ways to represent a graph:
 - Adjacency matrix
